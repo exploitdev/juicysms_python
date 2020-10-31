@@ -2,6 +2,8 @@
 
 juicysms_python is a simple API wrapper for juicysms.com
 
+![JuicySMS](https://i.imgur.com/WNah7SD.gif)
+
 ### Installation
 
 Automatic installation 
